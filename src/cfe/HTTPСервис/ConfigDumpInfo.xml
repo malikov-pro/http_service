@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.10">
+	<ConfigVersions>
+		<Metadata name="Catalog.http_serv_НастройкиПодсистемы" id="b28186f6-117a-4969-9a9a-4ec5ed4e708a" configVersion="6463fc341f9aaca71336766d6b4130379c6b6bf3">
+			<Metadata name="Catalog.http_serv_НастройкиПодсистемы.Attribute.СтатичныеДанные" id="87f24846-433d-417c-a89c-444b628639b1"/>
+			<Metadata name="Catalog.http_serv_НастройкиПодсистемы.Attribute.КорневойАдрес" id="d547d078-6758-4b54-a9b3-fa43cf881c1f"/>
+		</Metadata>
+		<Metadata name="Catalog.http_serv_НастройкиПодсистемы.Form.ФормаЭлемента" id="17880ecc-c3a0-4b86-866e-3ab87b60d506" configVersion="c0fe562590fa44602a2e1b66303f34e05d3cc7e2"/>
+		<Metadata name="Catalog.http_serv_НастройкиПодсистемы.Form.ФормаЭлемента.Form" id="17880ecc-c3a0-4b86-866e-3ab87b60d506.0" configVersion="b81b12f409f82553db404e3bcaa598d8b69a08a2"/>
+		<Metadata name="CommonModule.http_serv_ОбработчикСервиса" id="da177cb9-cba4-469f-9735-dca057ba74fc" configVersion="4c01cbb820097f9ea80934c2255fa9739777ac65"/>
+		<Metadata name="CommonModule.http_serv_ОбработчикСервиса.Module" id="da177cb9-cba4-469f-9735-dca057ba74fc.0" configVersion="2d48bc33ca9e75532bc432163638dd35bb79a264"/>
+		<Metadata name="CommonModule.http_serv_ПовторноеИспользование" id="4b296b07-4a4e-4ff3-83c6-a0611c5dc289" configVersion="d1e09e507330da8fc1e8bc644693f3b11fb26ed0"/>
+		<Metadata name="CommonModule.http_serv_ПовторноеИспользование.Module" id="4b296b07-4a4e-4ff3-83c6-a0611c5dc289.0" configVersion="adf0662ce6c0baac98ac47373aaa87d29c6f33c3"/>
+		<Metadata name="Configuration.HTTPСервис" id="108aafa3-3791-434f-856a-976b7c759177" configVersion="80a6bb4863e42430e9a78df82a372b641b3da93c"/>
+		<Metadata name="HTTPService.http_serv_БазовыйСервис" id="eb026a09-5d61-4e36-adb5-8252ab4bf992" configVersion="d5635bbd7bc7733f49591f50d422d16c59475aae">
+			<Metadata name="HTTPService.http_serv_БазовыйСервис.URLTemplate.all.Method.all" id="074547f1-afb6-463a-a608-2512af163351"/>
+			<Metadata name="HTTPService.http_serv_БазовыйСервис.URLTemplate.all" id="99e735d2-7e6c-42d7-a785-05f4d73cd119"/>
+		</Metadata>
+		<Metadata name="HTTPService.http_serv_БазовыйСервис.Module" id="eb026a09-5d61-4e36-adb5-8252ab4bf992.0" configVersion="76a96f35d5678beb6291d1f2260bd568669c07ef"/>
+		<Metadata name="Language.Русский" id="ec65bd44-e526-491f-90ed-cfe4ecd351b5" configVersion="6a60301400e3abe775ebf426497649acd15c030e"/>
+		<Metadata name="Role.http_serv_ОсновнаяРоль" id="c1ec7861-2534-4a55-a712-5c631db0adb4" configVersion="255a7d1571c4059e8be022bab2a352435740e836"/>
+		<Metadata name="Subsystem.http_serv_Подсистема" id="4353aea6-a2ab-46c6-a7f4-e2eb86249f4e" configVersion="b95738ae7ce090a95f0c575b4639b3c9165b3ad4"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
